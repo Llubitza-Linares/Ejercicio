@@ -1,7 +1,8 @@
 package ejercicioExtra;
 
 public class Helpers {
-    public void aplicaBeca(){
+    public static boolean aplicaBeca(int ci){
+        return false;
 
     }
 }
